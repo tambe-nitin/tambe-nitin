@@ -1,75 +1,67 @@
-# 🚀 Nitin Tambe  
+# ⚙️ Nitin Tambe – DevOps Enthusiast  
 
 **"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
 — Sir M. Visvesvaraya  
 
-Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
+Welcome to **VisvesvarayaOps**, a **DevOps Engineering** repository driven by automation, scalability, and continuous integration. Inspired by **Sir M. Visvesvaraya**, this repo focuses on **cloud infrastructure, CI/CD pipelines, containerization, and monitoring solutions**.  
 
-
----
-
-### 🖥️ **Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
-### ⚙️ **Backend**  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB43F?style=for-the-badge&logo=spring)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate)  
-![JDBC](https://img.shields.io/badge/-JDBC-003366?style=for-the-badge&logo=oracle)  
-![Servlet](https://img.shields.io/badge/-Servlet-FF7800?style=for-the-badge)  
-![JSP](https://img.shields.io/badge/-JSP-007396?style=for-the-badge)  
-
-### 🗄️ **Database**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle)  
+My mission is to **contribute to open-source** and engage in **major projects that drive innovation** in software delivery and infrastructure automation.
 
 ---
 
-## 📌 Tech Stack  
+### 🛠️ Tech Stack  
 
-### 🖥️ **Frontend:**  
-🔹 HTML, CSS, JavaScript  
-🔹 ReactJS  
+**🖥️ Platforms & Tools:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### ⚙️ **Backend:**  
-🔹 Java (JDK 17+)  
-🔹 Hibernate ORM  
-🔹 JDBC, Servlets, JSP  
-🔹 Spring Framework (Spring Boot, Spring MVC, Spring Security)  
+**☁️ Cloud Providers:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 
-### 🗄️ **Database:**  
-🔹 MySQL, Oracle SQL  
-
- 
-
----
-
-## 🔥 Features  
-
-✅ **Enterprise-Level Java Web Apps**  
-✅ **Efficient ORM with Hibernate**  
-✅ **Secure API Development with Spring**  
-✅ **Dynamic UI with ReactJS**  
-✅ **Optimized SQL Queries for High Performance**  
+**📦 Monitoring & Logging:**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack)
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Key Skills  
+
+✅ Cloud-native DevOps solutions  
+✅ CI/CD Pipelines with Jenkins & GitHub Actions  
+✅ Infrastructure-as-Code using Terraform and Ansible  
+✅ Docker & Kubernetes orchestration  
+✅ Monitoring and observability (Prometheus, Grafana, ELK)  
+✅ Open-source contributions to tools and automation  
+
+---
+
+## 📌 Goals  
+
+🔹 Collaborate on **large-scale, production-ready DevOps pipelines**  
+🔹 Make **significant contributions** to open-source DevOps tools and automation frameworks  
+🔹 Help teams deliver faster, safer, and more scalable applications  
+
+---
+
+## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tambe-nitin&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📊 Top Languages
+## 📊 Top Languages  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambe-nitin&layout=compact&theme=tokyonight)
 
 ---
 
-
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
-
+![DevOps GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
