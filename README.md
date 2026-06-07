@@ -50,17 +50,16 @@ My mission is to **contribute to open-source** and engage in **major projects th
 🔹 Make **significant contributions** to open-source DevOps tools and automation frameworks  
 🔹 Help teams deliver faster, safer, and more scalable applications  
 
----
+## 📈 GitHub Stats
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tambe-nitin&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tambe-nitin&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📊 Top Languages  
+## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambe-nitin&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambe-nitin&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
